@@ -1,10 +1,10 @@
-# Hola👋
-
-# Soy Daniel Agudelo 
+# Hola👋 Soy Daniel Agudelo 
 <!--
 **DanielFelipeAgMo/DanielFelipeAgMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+
+![Image text](https://dfamsoluciones.com/assets/img/bg-masthead.jpg)
 
 - 🔭 Actualmente trabajo como Freelance Developer y Docente universitario entre muchas otras cosas mas
 - 🌱 Apasionado por el universo de las ciencias computacionales y la programación, soy Analista financiero e ingeniero informático especializado en software y magister en formación.
